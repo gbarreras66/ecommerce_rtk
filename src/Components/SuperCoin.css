@@ -1,0 +1,16 @@
+.super-coins {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .super-coins-title {
+    text-align: center;
+  }
+  
+  .super-coins-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
